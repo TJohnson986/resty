@@ -19,7 +19,7 @@ function Form(props) {
           <label >
             <span>URL: </span>
             <input name='url' type='text' />
-            <button type="submit">GO!</button>
+            <button data-testid="form" type="submit">GO!</button>
           </label>
           <label className="methods">
             <span id="get">GET</span>
