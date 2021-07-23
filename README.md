@@ -18,4 +18,5 @@ Install all dependencies by running `npm i`, then run `npm start` to start the a
 ## Features
 * Ability to enter a URL and select REST method to an API
 * Ability to see a summary of the request as well as the results returned from the API in a readable format.
+* Keeps a history of all API calls to return the results again quickly
 
